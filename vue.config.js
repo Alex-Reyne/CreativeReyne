@@ -10,11 +10,11 @@ module.exports = {
   pluginOptions: {
     sitemap: {
       urls: [
-        "https://creativereyne.com/",
-        "https://creativereyne.com/home",
-        "https://creativereyne.com/build-your-brand",
-        "https://creativereyne.com/contact",
-        "https://creativereyne.com/portfolio"
+        "https://creativereyne.ca/",
+        "https://creativereyne.ca/home",
+        "https://creativereyne.ca/build-your-brand",
+        "https://creativereyne.ca/contact",
+        "https://creativereyne.ca/portfolio"
       ]
     }
   }
